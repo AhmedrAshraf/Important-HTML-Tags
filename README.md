@@ -7,10 +7,10 @@ head =>
 link
 
 Body =>
-h1-h6
+h1-h6,
 p, b, i, a
-img
-div, span
+img,
+div, span,
 br, hr
-input, button, select, textarea, radio, checkbox
+input, button, select, textarea, radio, checkbox,
 table, tr, th/td
