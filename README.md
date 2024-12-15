@@ -1,5 +1,5 @@
 # Important-HTML-Tags
-all-important tags you need to know
+### all-important tags you need to know
 
 Html,
 
@@ -14,3 +14,18 @@ div, span,
 br, hr
 input, button, select, textarea, radio, checkbox,
 table, tr, th/td
+
+# Important CSS Properties
+
+color => used for text color
+backgroundColor, box-shadow
+height, width
+border => 1px solid black
+margin, padding
+display, position
+font-size, font-family, font-weight
+text-align, justify-content, align-items
+
+Selector
+class, id, tag names, 
+mediaQuery, :hover, :active
